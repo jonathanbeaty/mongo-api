@@ -1,0 +1,20 @@
+{
+  "name": "mongo-api",
+  "version": "1.0.0",
+  "description": "node, mongo, mLab, heroku",
+  "repository": "https://github.com/jonathanbeaty/mongo-api.git",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "JB 2018",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "install": "^0.12.2",
+    "mongoose": "^5.3.7",
+    "morgan": "^1.9.1",
+    "npm": "^6.4.1",
+    "uuid": "^3.3.2"
+  }
+}
